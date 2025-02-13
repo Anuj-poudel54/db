@@ -1,14 +1,9 @@
 {
     "works": [
+      
         {
-            "title": "title1",
-            "imageName": "title1",
-            "desc": "desc",
-            "webLink": "webLinklink"
-        },
-        {
-            "title": "title1",
-            "imageName": "title1",
+            "title": "Toolmetics",
+            "imageName": "https://toolmetics.com/",
             "desc": "desc",
             "webLink": "webLinklink"
         },
@@ -41,6 +36,13 @@
         }
     ],
     "projects": [
+          {
+            "title": "ALPR",
+            "imageName": "title1",
+            "desc": "desc",
+            "githubLink": "https://github.com/prajwal-code22/ALPR",
+            "webLink": "webLinklink"
+        },
         {
             "title": "title1",
             "imageName": "title1",
