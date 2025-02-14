@@ -41,13 +41,13 @@
         {
             "title": "Maiboard",
             "imageName": "maiboard.jpg",
-            "desc": "A android mobile application developed using Java. It was project developed during Janakpur Hackathon 2023. It has feature of translation maithili to english and vice versa and live OCR.",
+            "desc": "An android mobile application developed using Java and Android studio. It is a project developed during Janakpur Hackathon 2023. It has feature for translation from maithili to english and vice versa and live OCR.",
             "githubLink": "https://github.com/Anuj-poudel54/MaiKeyboard"
         },
         {
             "title": "Passsaver",
             "imageName": "passsaver.jpg",
-            "desc": "Pyhon script that stores and retrieve password on demand. Stores password in sqlite db. Basic Caeser cipher ecrypter is used, so it is unspoken to not use",
+            "desc": "Python script that stores and retrieve password on demand. Stores password in sqlite db. Basic Caeser cipher ecnryption decryption is used, needless to say do not use it for sensitive passwords.",
             "githubLink": "https://github.com/Anuj-poudel54/passsaver/"
         },
         {
@@ -59,7 +59,7 @@
         {
             "title": "Mini Hotloader",
             "imageName": "hotloader.jpg",
-            "desc": "Script that watches a directory or file if it has changed. If changed then runs given command automatically i.e, external hot reload.",
+            "desc": "Script that watches a directory or file if it has changed. If changed, then runs given command automatically i.e, external hot reloading.",
             "githublink": "https://github.com/Anuj-poudel54/mini_hotloader"
         }
     ]
